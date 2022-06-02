@@ -8,3 +8,8 @@ I am from India, and I make Windows application with C# / React / Electron JS, a
 * ⚛️ React
 * 📱 ANGULAR
 * 💻 HTML, CSS, JS
+
+### Launguages
+* English
+* Hindi
+* Japanese (Currently learning)
