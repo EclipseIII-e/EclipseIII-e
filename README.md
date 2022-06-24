@@ -14,4 +14,4 @@ I am from India, and I make Windows application with C# / React / Electron JS, a
 ### Launguages
 * English
 * Hindi
-* Japanese (Currently learning)
+* Japanese
