@@ -6,9 +6,7 @@ I am from India, and I make ✨ Windows application, and websites (3D) ✨ and a
 * C#
 * C/C++
 * Java
-* ReactJS
-* ANGULAR
-* JavaScript
+* JavaScript (React & ANGULAR)
 
 
 ### Launguages
